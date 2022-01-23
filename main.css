@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
-  background: url(/pexels-karolina-grabowska-6958783.jpg);
+  background: url("pexels-karolina-grabowska-6958783.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -38,22 +38,22 @@ button {
   outline: none;
   cursor: pointer;
 }
-.signup-btn{
+.signup-btn {
   background-color: #1572a1;
 }
-.twitter-btn{
-    background-color: #9AD0EC;
+.twitter-btn {
+  background-color: #9ad0ec;
 }
-a{
-    text-decoration: none;
-    font-size: large;
+a {
+  text-decoration: none;
+  font-size: large;
 }
-hr{
-    margin-top: 20px;
-    width: 80%;
+hr {
+  margin-top: 20px;
+  width: 80%;
 }
-.or{
- background: #fff;
- width: 30px;
- margin: -19px auto 0 ;
+.or {
+  background: #fff;
+  width: 30px;
+  margin: -19px auto 0;
 }
